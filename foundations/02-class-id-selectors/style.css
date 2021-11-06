@@ -1,0 +1,19 @@
+.oddElements {
+  background-color: #ffb6c1;
+  font-family: Verdana, sans-serif;
+}
+
+#secondElementID {
+  color: blue;
+  font-size: 36px;
+}
+
+.fontChange {
+  font-size: 24px;
+}
+
+#bold {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: 24px;
+}
